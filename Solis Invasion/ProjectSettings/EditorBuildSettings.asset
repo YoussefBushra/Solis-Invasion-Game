@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: efe3873519844e741a59bdd27c6924f7
+  - enabled: 1
+    path: Assets/Scenes/Mercury.unity
+    guid: 32a89317c42e8c74f8e620afc7666e4a
+  - enabled: 1
+    path: Assets/Scenes/Uranus.unity
+    guid: 5b08a084b69df6c43be41c147ca02515
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: c0b29b58bc2e2a948a364b1493df41be
+  - enabled: 1
+    path: Assets/Scenes/BeginningScene.unity
+    guid: bd043618dd8e1b14a90a293c4bdd4093
+  - enabled: 1
+    path: Assets/Scenes/BeforeVenus.unity
+    guid: e88adc0fa1223b84d92c413a876107c0
+  - enabled: 1
+    path: Assets/Scenes/BeforeUranus.unity
+    guid: 0bb37dd8bed828544babcfb09c62cedd
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: c4d09134610f23c42871ce3e55701650
+  - enabled: 1
+    path: Assets/Scenes/ShowScore.unity
+    guid: f0a5eacec8b52494b8b52cd7986ce84e
+  - enabled: 1
+    path: Assets/Scenes/Venus.unity
+    guid: 73cb99b789478ef4e82760defa0de93e
+  - enabled: 1
+    path: Assets/Scenes/BeforePluto.unity
+    guid: 950f79f2a9ad98247a73b0de217385ed
+  - enabled: 1
+    path: Assets/Scenes/Pluto.unity
+    guid: b4b15a27c2f12a8439669fe0e6ffc6da
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 476eb293ee6cbfc4d8e92461eaae53f0
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: 7582ed88ebd95d847b4e53d98e5361c8
+  m_configObjects: {}
